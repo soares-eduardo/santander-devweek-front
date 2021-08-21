@@ -6,7 +6,7 @@ Front end application coded in order to consume the financial stock API and retu
 
 - Angular 12.0.2.
 
-## Development server
+## Deployment
 
 This application is hosted on GitHub and you can interact with it by click on the link bellow. Please, wait a few seconds until the API responses.
 
