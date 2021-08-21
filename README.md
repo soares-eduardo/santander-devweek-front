@@ -1,4 +1,4 @@
-# FrontendDevweek
+# Santander DevWeek Project - Front End
 
 Front end application coded in order to consume the financial stock API and return its values on a friendly interface. This project was provided by Santander as a way to promote their 75 days Bootcamp.
 
